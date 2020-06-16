@@ -9,7 +9,6 @@ import UIKit
 import PlaygroundSupport
 
 var view = UIView()
-
 var welcomeView = Welcome(scene: view)
 
 PlaygroundPage.current.needsIndefiniteExecution = true
